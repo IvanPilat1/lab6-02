@@ -1,0 +1,7 @@
+C:\Users\gskfn\source\repos\Lab06_02\bin\Debug\Lab06_02.exe.config
+C:\Users\gskfn\source\repos\Lab06_02\bin\Debug\Lab06_02.exe
+C:\Users\gskfn\source\repos\Lab06_02\bin\Debug\Lab06_02.pdb
+C:\Users\gskfn\source\repos\Lab06_02\obj\Debug\Lab06_02.csproj.AssemblyReference.cache
+C:\Users\gskfn\source\repos\Lab06_02\obj\Debug\Lab06_02.csproj.CoreCompileInputs.cache
+C:\Users\gskfn\source\repos\Lab06_02\obj\Debug\Lab06_02.exe
+C:\Users\gskfn\source\repos\Lab06_02\obj\Debug\Lab06_02.pdb
